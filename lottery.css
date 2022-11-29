@@ -1,0 +1,71 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('tree-736885__480.jpg');
+}
+.container {
+    width: fit-content;
+    display: block;
+    margin: auto;
+    margin-top: 12%;
+}
+.title {
+    padding: 12px; 
+    font-size: 52px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #e94f56;
+    text-align: center;
+}
+.content {
+    background-color: #dbffff;
+    
+}
+.sub-title {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 24px 12px;
+    text-align: center;
+}
+#input {
+    padding: 12px 8px;
+    font-size: 24px;
+}
+.form {
+    padding: 24px 48px;
+    display: flex;
+    justify-content: space-around;
+}
+.button {
+    background-color: #9efe39;
+    border: #b5d1a0;
+    font-size: 24px;
+    padding: 12px 32px;
+}
+#list {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding-bottom: 12px;
+}
+.link, .link:visited {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+}
+
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+}
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (max-width: 576px) {
+}
+
+@media only screen and (max-width: 480px) {
+}
